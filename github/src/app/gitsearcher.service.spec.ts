@@ -1,16 +1,16 @@
-// import { TestBed } from '@angular/core/testing';
+import { TestBed } from '@angular/core/testing';
 
-// import { GitsearcherService } from './gitsearcher.service';
+import { GitsearcherService } from './gitsearcher.service';
 
-// describe('GitsearcherService', () => {
-//   let service: GitsearcherService;
+describe('GitsearcherService', () => {
+  let service: GitsearcherService;
 
-//   beforeEach(() => {
-//     TestBed.configureTestingModule({});
-//     service = TestBed.inject(GitsearcherService);
-//   });
+  beforeEach(() => {
+    TestBed.configureTestingModule({});
+    service = TestBed.inject(GitsearcherService);
+  });
 
-//   it('should be created', () => {
-//     expect(service).toBeTruthy();
-//   });
-// });
+  it('should be created', () => {
+    expect(service).toBeTruthy();
+  });
+});
