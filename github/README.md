@@ -1,8 +1,21 @@
-<<<<<<< HEAD
-# GitHubSearch
-=======
-# Githubsearch
->>>>>>> 80ab15f95813ed3f0367352f4071df832a56d098
+### GITHUB SEARCH.
+
+## DESCRIPTION
+
+This is an app where you can search for a github users,there repository using the search form.
+
+## HOW IT IS USED.
+Enter git username	Input "github username" i.e Irene-Nandy	Should display users,followers,following,email and public repositories.
+View project in github	Click on the button	Display specific repo on github
+
+## Known Bugs
+There are no bugs at the moment if any reach out to irenekasiva75@gmail.com
+
+## Technologies Used
+1 HTM
+2 CSS
+3 Bootsrap
+4 Angular JS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
